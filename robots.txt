@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ghostcatstudio.netlify.app/sitemap.xml
