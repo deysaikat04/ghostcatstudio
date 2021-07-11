@@ -40,6 +40,13 @@ body {
   margin-left: -12px;
 }
 
+.ml-26 {
+  margin-left: 26px;
+}
+.mr-6{
+  margin-right: 6px;
+}
+
 .moto-text {
   font-size: 1rem;
   color: #949393;
